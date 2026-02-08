@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OpaqueTokenSample.Infrastructure.Cache/OpaqueTokenSample.Infrastructure.Cache.csproj" />
+  <Project Path="OpaqueTokenSample.Security/OpaqueTokenSample.Security.csproj" />
+</Solution>
